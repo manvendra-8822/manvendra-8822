@@ -5,7 +5,7 @@ I am currently a student and I am learning and working in the areas of Web Devel
 
 <div style="margin-top:50px">
 **Skills ⛰️**
--JAVA 
+-JAVA <br>
 -HTML  
 -CSS 
 -Figma 
