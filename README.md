@@ -3,14 +3,26 @@
 
 I am currently a student and I am learning and working in the areas of Web Development, UI/UX Designing and Graphic Designing.
 
+<div style="margin-top:50px">
+**Skills ⛰️**
 
-Skills:
+- 💻 Node.js **(Express.js)**
+- Javascript
+- React.js
+- Solidity
+- Ethereum, Truffle, Hardhat
+- MongoDB
+- Tailwind CSS & Bootstrap
+- 📝 HTML & CSS
+- Postman Student Expert **(API Testing)**
+</div>
+<!-- Skills:
 -JAVA 
 -HTML  
 -CSS 
 -Figma 
 -Adobe Illustrator 
--Canva
+-Canva -->
 
 - 🌱 I’m currently learning Web Development , Blockchain 
 - 👯 I’m looking to collaborate on  I'm looking to collaborate with other developers and designers to create front-end applications. 
