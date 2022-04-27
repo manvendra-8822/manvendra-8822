@@ -4,13 +4,14 @@
 I am currently a student and I am learning and working in the areas of Web Development, UI/UX Designing and Graphic Designing.
 
 <div style="margin-top:50px">
-**Skills ⛰️**
+  
+**Skills ⛰️**<br>
 -JAVA <br>
--HTML  
--CSS 
--Figma 
--Adobe Illustrator 
--Canva 
+-HTML  <br>
+-CSS <br>
+-Figma <br>
+-Adobe Illustrator <br>
+-Canva <br>
 </div>
 
 
