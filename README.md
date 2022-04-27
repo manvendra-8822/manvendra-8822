@@ -20,7 +20,7 @@ I am currently a student and I am learning and working in the areas of Web Devel
 - 👯 I’m looking to collaborate on  I'm looking to collaborate with other developers and designers to create front-end applications. 
 - 📫 How to reach me: manvendrarajsinghmanny@gmail.com 
 
-**Connect with me-:**
+**Connect with me-:** <br>
 [<img src='https://img.icons8.com/color/48/000000/behance.png' alt='github' height='40'>](https://www.behance.net/manvendsingh)  [<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manvendra-raj-singh-7a69a7226/)  
 
 
