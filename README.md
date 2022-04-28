@@ -6,7 +6,7 @@
 - 💻I am a coder with a passion for learning new technologies and solving problems.
 - I am learning and working in the areas of Web Development, UI/UX Designing and Graphic Designing.
 - 🌱 I’m currently learning Full-Stack (MERN) Web Development
-- 👯 I’m looking to collaborate on  I'm looking to collaborate with other developers and designers to create front-end applications. 
+- 👯 I’m looking to collaborate on  with other developers and designers to create front-end applications. 
 - 📫 How to reach me: manvendrarajsinghmanny@gmail.com
 
 
