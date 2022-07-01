@@ -16,6 +16,7 @@
 -JAVA <br>
 -HTML  <br>
 -CSS <br>
+-Bootstrap<br>
 -Figma <br>
 -Adobe Illustrator <br>
 -Canva <br>
@@ -24,6 +25,7 @@
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
