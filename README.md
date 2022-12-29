@@ -17,6 +17,8 @@
 -HTML  <br>
 -CSS <br>
 -Javascript <br>
+-C<br>
+-C++<br>
 -Bootstrap<br>
 -Figma <br>
 -Adobe Illustrator <br>
@@ -39,6 +41,9 @@
 
 **Connect with me-:** <br>
 [<img src='https://img.icons8.com/color/48/000000/behance.png' alt='github' height='40'>](https://www.behance.net/manvendsingh)  [<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manvendra-raj-singh-7a69a7226/)  
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendra-8822&show_icons=true&locale=en&layout=compact" alt="manvendra-8822" /></p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manvendra-8822)](https://github.com/anuraghazra/github-readme-stats)
