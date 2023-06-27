@@ -41,8 +41,10 @@
 <br>
 
 **Connect with me-:** <br>
-[<img src='https://img.icons8.com/color/48/000000/behance.png' alt='Behance' height='40'>](https://www.behance.net/manvendsingh)  [<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manvendra-raj-singh-7a69a7226/)[<img src='https://icons8.com/icon/wDGo581Ea5Nf/level-up-your-coding-skills-and-quickly-land-a-job' alt='Leetcode' height='40'>](https://leetcode.com/manvendrarajsing/)
-[<img src='https://icons8.com/icon/GlEHSV1RF10y/medium' alt='Medium' height='40'>](https://medium.com/@msingh8_be21)
+[<img src='https://img.icons8.com/color/48/000000/behance.png' alt='Behance' height='40'>](https://www.behance.net/manvendsingh)  [<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manvendra-raj-singh-7a69a7226/)[<img src='![image](https://github.com/manvendra-8822/manvendra-8822/assets/95296182/56079133-0c8b-473e-9a5f-565cbea73604)
+' alt='Leetcode' height='40'>](https://leetcode.com/manvendrarajsing/)
+[<img src='![image](https://github.com/manvendra-8822/manvendra-8822/assets/95296182/648afb48-bcf9-4dca-abbd-a204ac089ac7)
+' alt='Medium' height='40'>](https://medium.com/@msingh8_be21)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendra-8822&show_icons=true&locale=en&layout=compact" alt="manvendra-8822" /></p>
