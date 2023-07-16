@@ -45,14 +45,14 @@
 <br>
 
 **Connect with me-:** <br>
-[<img src='https://img.icons8.com/color/48/000000/behance.png' alt='Behance' height='40'>](https://www.behance.net/manvendsingh)  [<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manvendra-raj-singh-7a69a7226/)[<img src='![image](https://github.com/manvendra-8822/manvendra-8822/assets/95296182/56079133-0c8b-473e-9a5f-565cbea73604)
-' alt='Leetcode' height='40'>](https://leetcode.com/manvendrarajsing/)
-[<img src='![image](https://github.com/manvendra-8822/manvendra-8822/assets/95296182/648afb48-bcf9-4dca-abbd-a204ac089ac7)
-' alt='Medium' height='40'>](https://medium.com/@msingh8_be21)
+[<img src='https://img.icons8.com/color/48/000000/behance.png' alt='Behance' height='40'>](https://www.behance.net/manvendsingh) 
+[<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manvendra-raj-singh-7a69a7226/)
+<img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Leetcode"/>(https://leetcode.com/manvendrarajsing/)
+[<img width="40" height="40" src="https://img.icons8.com/ios-filled/50/medium-logo.png" alt="medium-logo"/>](https://medium.com/@msingh8_be21)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendra-8822&show_icons=true&locale=en&layout=compact" alt="manvendra-8822" /></p>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manvendra-8822)](https://github.com/anuraghazra/github-readme-stats)
+[![Manvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=manvendra-8822)]
  
