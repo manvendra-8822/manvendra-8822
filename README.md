@@ -4,7 +4,7 @@
 **About Me 🧑** -:<br>
 - I am currently an engineering student and I am studying Computer Science engineering. <br>
 - 💻I am a coder with a passion for learning new technologies and solving problems.
-- I am learning and working in the areas of Web Development, UI/UX Designing and Graphic Designing.
+- I am learning and working in the areas of Web Development, UI/UX Designing and Machine Learning.
 - 🌱 I’m currently learning Full-Stack (MERN) Web Development
 - 👯 I’m looking to collaborate on  with other developers and designers to create front-end applications. 
 - 📫 How to reach me: manvendrasingh8802@gmail.com
