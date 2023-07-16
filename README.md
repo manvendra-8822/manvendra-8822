@@ -7,7 +7,7 @@
 - I am learning and working in the areas of Web Development, UI/UX Designing and Graphic Designing.
 - 🌱 I’m currently learning Full-Stack (MERN) Web Development
 - 👯 I’m looking to collaborate on  with other developers and designers to create front-end applications. 
-- 📫 How to reach me: manvendrarajsinghmanny@gmail.com
+- 📫 How to reach me: manvendrarajsingh8802@gmail.com
 
 
 <div style="margin-top:50px">
