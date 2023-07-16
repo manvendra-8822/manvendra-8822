@@ -13,7 +13,7 @@
 <div style="margin-top:50px">
   
 **Skills ⛰️**<br>
--JAVA <br>
+-Java <br>
 -HTML  <br>
 -CSS <br>
 -Javascript <br>
@@ -23,6 +23,8 @@
 -Figma <br>
 -Adobe Illustrator <br>
 -Canva <br>
+-Ubuntu <br>
+-Python <br>
 </div>
 
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
@@ -37,6 +39,8 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 <br>
 
