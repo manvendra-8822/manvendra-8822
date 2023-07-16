@@ -48,7 +48,7 @@
 [<img src='https://img.icons8.com/color/48/000000/behance.png' alt='Behance' height='40'>](https://www.behance.net/manvendsingh) 
 [<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/manvendra-raj-singh-7a69a7226/)
 [<img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Leetcode"/>](https://leetcode.com/manvendrarajsing/)
-[<img width="40" height="40" src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="medium-logo"/>](https://medium.com/@msingh8_be21)
+[<img width="40" height="40" src="https://img.icons8.com/fluency-systems-filled/48/000000/medium-logo.png" alt="medium-logo"/>](https://medium.com/@msingh8_be21)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendra-8822&show_icons=true&locale=en&layout=compact" alt="manvendra-8822" /></p>
