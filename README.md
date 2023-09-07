@@ -58,5 +58,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendra-8822&show_icons=true&locale=en&layout=compact" alt="manvendra-8822" /></p>
 <br>
 
-[![Manvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=manvendra-8822)]
+[Manvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=manvendra-8822)
  
