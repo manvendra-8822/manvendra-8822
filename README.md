@@ -5,8 +5,8 @@
 - I am currently an engineering student and I am studying Computer Science engineering. <br>
 - 💻I am a coder with a passion for learning new technologies and solving problems.
 - I am learning and working in the areas of Web Development, UI/UX Designing and Machine Learning.
-- 🌱 I’m currently learning Full-Stack (MERN) Web Development
-- 👯 I’m looking to collaborate on  with other developers and designers to create front-end applications. 
+- 🌱 I’m currently exploring Back-end Web Development , Machine Learning & Data Science.
+- 👯 I’m looking to collaborate on with other developers and like minded individuals to create innovative applications. 
 - 📫 How to reach me: manvendrasingh8802@gmail.com
 
 
@@ -25,6 +25,8 @@
 -Canva <br>
 -Ubuntu <br>
 -Python <br>
+-R <br>
+-SQL<br>
 </div>
 
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
@@ -41,6 +43,8 @@
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 <br>
 
