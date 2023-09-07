@@ -55,8 +55,8 @@
 [<img width="40" height="40" src="https://img.icons8.com/fluency-systems-filled/48/000000/medium-logo.png" alt="medium-logo"/>](https://medium.com/@msingh8_be21)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendra-8822&show_icons=true&locale=en&layout=compact" alt="manvendra-8822" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendra-8822&show_icons=true&locale=en&layout=compact" alt="manvendra-8822" /></p>
 <br>
 
-[Manvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=manvendra-8822)
+Manvendra's GitHub stats(https://github-readme-stats.vercel.app/api?username=manvendra-8822)
  
